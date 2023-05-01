@@ -4,6 +4,8 @@ body{
     margin: 400px;
 }
 button{
+    color:white;
+    border:none;
     font-size:50px;
     background:red;
 }
