@@ -4,9 +4,10 @@ body{
     margin: 400px;
 }
 button{
+    margin:50px;
     color:white;
     border:none;
     font-size:50px;
     background:red;
-    border-radius:15px;
+    border-radius:20px;
 }
