@@ -1,7 +1,3 @@
-@viewport 
-{
-    width: device-width ;
-    zoom: 1.0 ;
 }
 body
 {
@@ -15,6 +11,7 @@ pre
     text-align:center;
     color:#000;
     background:rgb(180, 192, 194);
+    width:auto;
     font-size:30px;
     margin:100px;
     padding: 40px;
